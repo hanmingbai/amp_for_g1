@@ -26,7 +26,7 @@ import torch
 class AMPLoader:
 
     # 关节数量
-    NUM_ACTIONS = 12 # 12, 23, 29
+    NUM_ACTIONS = 23 # 12, 23, 29
 
     # size
     POS_SIZE = 3
